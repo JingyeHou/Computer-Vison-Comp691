@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="project" targetName="project" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="488a8080-d934-4a6f-bafb-d9a1362cd8a3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/file/image/Abstract Shapes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/file/object/123/222" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/file/object/123/23/.add" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/file/object/123/23/houjingye" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../213/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Computer_vision1/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Computer_vision1/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Guassian_kernel/GuassianKernel.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Guassian_kernel/GuassianKernel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/GaussianKernel.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/GaussianKernel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/HarisConer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/HarisConer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/KPoint.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/KPoint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/Tools.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/Tools.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/.idea/assignment4.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/Descriptor.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/Descriptor.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/GaussianKernel.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/GaussianKernel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/HarisConer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/HarisConer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/Matcher.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/Matcher.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/Tools.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/Tools.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment4/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../midTerm/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../midTerm/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../midTerm/Descriptor.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../midTerm/Descriptor.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../midTerm/GaussianKernel.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../midTerm/GaussianKernel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../midTerm/HarrisConer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../midTerm/HarrisConer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../midTerm/Matcher.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../midTerm/Matcher.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../midTerm/ShowPic.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../midTerm/ShowPic.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../totorial/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Desktop/SoftwareEng/.idea/dictionaries/houjingye.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Desktop/SoftwareEng/src/informationExpert/Itutu.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Desktop/SoftwareEng/src/informationExpert/ItutuBL.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Desktop/SoftwareEng/src/informationExpert/TutuBL.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Desktop/SoftwareEng/src/informationExpert/TutuBO.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/248Question3/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/248Question3/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/248Question3/.idea/dictionaries/houjingye.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/248Question3/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/248Question3/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/248Question3/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/248Question3/248Question3.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/Java112ZhaoZhe/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/file/object/demo.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/file/object/demo.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/file/object/point.csv" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/file/object/point.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/file/text/message.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/assignment/E01/CircleView.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/assignment/E01/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/assignment/E01/Window.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/assignment/E02/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/assignment/E02/Text.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/assignment/E02/Window.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/assignment/E03/FileManager.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/assignment/E03/FileManagerDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/collection/LetterCounter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/collection/MapDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/collection/SetDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/Date/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/file/BufferedCopyDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/file/CopyDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/file/FileDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/file/ObjectSerializationDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/file/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/file/SeekDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/file/SystemBufferDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/file/TextFileDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/file/TextFileExceptionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/generic/method/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/generic/method/GenericMethod.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/generic/type/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/generic/type/LinkList.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/generic/type/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/generic/wild/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/generic/wild/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/lambda/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/lambda/Filter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/lambda/ParameterOne.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/lambda/ParameterTwo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/lambda/ParameterZero.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/lambda/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/lambda/Return.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/lambda/Values.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/lambda/functions/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/lambda/functions/Each.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/lambda/functions/Numbers.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/TimeConsumer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/basic/Bathroom.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/basic/Counter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/basic/Diver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/basic/OfficeStory.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/basic/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/collection/Counter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/collection/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/data/Counter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/data/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/data/Taker.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/interrupt/Counter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/interrupt/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/interrupt/join/Counter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/interrupt/join/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/multiThread/interrupt/join/Flag.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass1/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass1/p/Outer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass1/p/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass2/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass2/p/Outer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass3/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass3/p/Outer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass4/p/Outer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/linkedList/Filter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/linkedList/GreaterThanFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/linkedList/LinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/linkedList/LinkedListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/linkedList/LinkedListTest.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/linkedList/PositiveFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/linkedList/RemoveDuplicationFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/range/Range.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/range/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/regexp/RegExpDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/regexp/RegExpJava.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/stream/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/Demo1/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/Demo1/Window.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/mouseEvent/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/mouseEvent/Window.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/paint/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/paint/ProgressView.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/paint/Window.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/panel/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/panel/Window.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/exception/Bag.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/exception/BallException.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/exception/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/exception/OutOfBoundsException.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/v0/Card.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/v0/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/v0/Rank.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/v0/Suit.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/test/course/crash/junit3/LinkedListLevel1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/test/course/crash/junit3/LinkedListLevel2Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/test/course/crash/junit3/LinkedListSuite.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/test/course/crash/junit4/LinkedListLevel1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/test/course/crash/junit4/LinkedListLevel2Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/test/course/crash/junit4/LinkedListSuite.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/day1/practice1/Observable.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/day2/delegation/Bathroom.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/day2/delegation/BathroomMachine.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/day2/delegation/Boss.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/day2/delegation/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/day2/delegation/EmployeeDelegate.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/day2/delegation/OfficeStory.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/decorator/original/Cafe.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/decorator/original/Coffee.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/decorator/original/Decorator.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/decorator/original/DiscountDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/decorator/original/RecordDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/decorator/original/SugarDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/decorator/original/TexDecprator.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/decorator/poly/SubClass.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/decorator/poly/SuperClass.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/decorator/real/Component.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/refactoring/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/graph/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/graph/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/graph/Graph.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/graph/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/graph/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/starcraft/Attacking.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/starcraft/AttackingStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/starcraft/AttackingStrategyNormal.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/starcraft/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/starcraft/Game.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/starcraft/GameMap.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/starcraft/Moving.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/starcraft/MovingStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/starcraft/MovingStrategyFlying.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/starcraft/MovingStrategyWalking.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/starcraft/Unit.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/starcraft/UnitBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e00_original/starcraft/UnitFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e01_strategy/graph/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e01_strategy/graph/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e01_strategy/graph/Graph.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e01_strategy/graph/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e01_strategy/graph/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e01_strategy/starcraft/Attacking.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e01_strategy/starcraft/Driver.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e01_strategy/starcraft/Game.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e01_strategy/starcraft/GameMap.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e01_strategy/starcraft/Moving.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e01_strategy/starcraft/Observer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e01_strategy/starcraft/PhotonCanon.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e01_strategy/starcraft/Stalker.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e01_strategy/starcraft/Unit.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/starcraft/e01_strategy/starcraft/WarpPrism.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/template/Scene.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/template/SceneA.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/template/SceneB.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/pointB.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/untitled/.idea/dictionaries/houjingye.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/baseRefactoring.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/editor.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/IntelliJIdea2016.2/options/baseRefactoring.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/IntelliJIdea2016.2/options/git.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/IntelliJIdea2016.2/options/other.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm2017.1/inspection/Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm2017.1/options/jdk.table.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm2017.1/options/packages.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm2017.1/options/recentProjectDirectories.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/PyCharm2017.1/options/window.manager.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Hola World/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Hola World/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/Hola World/Print.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/README.md" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/app.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/package.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/public/stylesheets/style.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/routes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/routes/users.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/views/error.jade" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/views/index.jade" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/views/layout.jade" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/myNewJS/Object.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/myNewJS/my_new_js.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="368" column="37" lean-forward="false" selection-start-line="368" selection-start-column="37" selection-end-line="368" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cout</find>
+      <find>normal</find>
+      <find>Normal</find>
+      <find>Normals</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Tools.h" />
+        <option value="$PROJECT_DIR$/Tools.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="21" />
+    <option name="y" value="32" />
+    <option name="width" value="1280" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager" selected="Application.project">
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="project" TARGET_NAME="project" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="project" TARGET_NAME="project" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="project" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="project" TARGET_NAME="project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="project" RUN_TARGET_NAME="project">
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.project" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="488a8080-d934-4a6f-bafb-d9a1362cd8a3" name="Default" comment="" />
+      <created>1490560874782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490560874782</updated>
+      <workItem from="1490560876603" duration="16774000" />
+      <workItem from="1490729988849" duration="8060000" />
+      <workItem from="1490812114494" duration="27761000" />
+      <workItem from="1491154343380" duration="302000" />
+      <workItem from="1491160782858" duration="3907000" />
+      <workItem from="1491402993838" duration="1730000" />
+      <workItem from="1491412292090" duration="8933000" />
+      <workItem from="1491492826602" duration="7324000" />
+      <workItem from="1491507259540" duration="25000" />
+      <workItem from="1491584877110" duration="582000" />
+      <workItem from="1491930581460" duration="8639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84037000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="21" y="32" width="1280" height="774" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31524926" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34750733" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iterator">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21255">
+          <caret line="1417" column="0" lean-forward="false" selection-start-line="1417" selection-start-column="0" selection-end-line="1417" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="53" lean-forward="false" selection-start-line="72" selection-start-column="53" selection-end-line="72" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iterator">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21255">
+          <caret line="1417" column="0" lean-forward="false" selection-start-line="1417" selection-start-column="0" selection-end-line="1417" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iterator">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21255">
+          <caret line="1417" column="0" lean-forward="false" selection-start-line="1417" selection-start-column="0" selection-end-line="1417" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools.cpp" />
+    <entry file="file://$PROJECT_DIR$/Tools.h" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools.cpp" />
+    <entry file="file://$PROJECT_DIR$/Tools.h" />
+    <entry file="file://$PROJECT_DIR$/Tools.h" />
+    <entry file="file://$PROJECT_DIR$/Tools.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iterator">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="1417" column="0" lean-forward="false" selection-start-line="1417" selection-start-column="0" selection-end-line="1417" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="368" column="37" lean-forward="false" selection-start-line="368" selection-start-column="37" selection-end-line="368" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

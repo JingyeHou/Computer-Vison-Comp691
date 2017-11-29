@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="assignment3" targetName="assignment3" />
+      <config projectName="midTerm" targetName="midTerm" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="991b329d-965f-4cf3-8960-68a9fbc169d7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Computer_vision1/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Computer_vision1/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Guassian_kernel/GuassianKernel.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Guassian_kernel/GuassianKernel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/GaussianKernel.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/GaussianKernel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/HarisConer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/HarisConer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/KPoint.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/KPoint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/Tools.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../assignment3/Tools.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Descriptor.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Descriptor.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GaussianKernel.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GaussianKernel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HarrisConer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HarrisConer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matcher.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Matcher.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ShowPic.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ShowPic.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../totorial/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/248Question3/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/248Question3/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/248Question3/.idea/dictionaries/houjingye.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/248Question3/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/248Question3/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/248Question3/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/248Question3/248Question3.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/Java112ZhaoZhe/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/file/text/message.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/assignment/E01/CircleView.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/assignment/E01/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/assignment/E01/Window.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/assignment/E02/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/assignment/E02/Text.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/assignment/E02/Window.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/collection/LetterCounter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/collection/MapDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/collection/SetDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/file/FileDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/file/TextFileDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/file/TextFileExceptionDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass1/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass1/p/Outer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass1/p/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass2/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass2/p/Outer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass3/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass3/p/Outer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/innerClass4/p/Outer.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/linkedList/Filter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/linkedList/GreaterThanFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/linkedList/LinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/linkedList/LinkedListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/linkedList/LinkedListTest.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/linkedList/PositiveFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/linkedList/RemoveDuplicationFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/range/Range.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/nestedClass/range/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/Demo1/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/Demo1/Window.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/mouseEvent/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/mouseEvent/Window.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/paint/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/paint/ProgressView.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/paint/Window.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/panel/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/course/ui/panel/Window.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/exception/Bag.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/exception/BallException.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/exception/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/src/exception/OutOfBoundsException.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/test/course/crash/junit3/LinkedListLevel1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/test/course/crash/junit3/LinkedListLevel2Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/test/course/crash/junit3/LinkedListSuite.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/test/course/crash/junit4/LinkedListLevel1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/test/course/crash/junit4/LinkedListLevel2Test.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe113Java/test/course/crash/junit4/LinkedListSuite.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/ZhaoZhe411/src/day1/practice1/Observable.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/untitled/.idea/dictionaries/houjingye.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/baseRefactoring.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/IntelliJIdea2016.2/options/baseRefactoring.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/IntelliJIdea2016.2/options/git.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/IntelliJIdea2016.2/options/other.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/README.md" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/app.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/package.json" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/public/stylesheets/style.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/routes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/routes/users.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/views/error.jade" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/views/index.jade" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/Laihaotao/views/layout.jade" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/myNewJS/Object.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/WebstormProjects/myNewJS/my_new_js.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HarrisConer.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HarrisConer.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="100" column="5" lean-forward="true" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Matcher.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Matcher.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-18">
+              <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <element signature="e#93#112#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HarrisConer.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HarrisConer.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="20" column="89" lean-forward="false" selection-start-line="20" selection-start-column="89" selection-end-line="20" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GaussianKernel.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GaussianKernel.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="79" lean-forward="false" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+              <folding>
+                <element signature="e#71#906#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShowPic.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ShowPic.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShowPic.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ShowPic.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="e#93#125#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Matcher.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Matcher.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1107">
+              <caret line="76" column="45" lean-forward="false" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
+              <folding>
+                <element signature="e#40#60#0" expanded="true" />
+                <element signature="e#2515#2571#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Descriptor.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Descriptor.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1053">
+              <caret line="8" column="56" lean-forward="false" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="53" column="34" lean-forward="false" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/selfHarris.h" />
+        <option value="$PROJECT_DIR$/GaussianKernel.cpp" />
+        <option value="$PROJECT_DIR$/GaussianKernel.h" />
+        <option value="$PROJECT_DIR$/harris.h" />
+        <option value="$PROJECT_DIR$/HarrisConer.h" />
+        <option value="$PROJECT_DIR$/Matcher.h" />
+        <option value="$PROJECT_DIR$/Description.h" />
+        <option value="$PROJECT_DIR$/Descriptor.h" />
+        <option value="$PROJECT_DIR$/Descriptor.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/ShowPic.h" />
+        <option value="$PROJECT_DIR$/ShowPic.cpp" />
+        <option value="$PROJECT_DIR$/Matcher.cpp" />
+        <option value="$PROJECT_DIR$/HarrisConer.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="midTerm" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="midTerm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager" selected="Application.midTerm">
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="midTerm" TARGET_NAME="midTerm" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="midTerm" TARGET_NAME="midTerm" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="midTerm" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="midTerm" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="midTerm" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="midTerm" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="midTerm" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="midTerm" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="midTerm" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="midTerm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="midTerm" TARGET_NAME="midTerm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="midTerm" RUN_TARGET_NAME="midTerm">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="assignment3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="assignment3" TARGET_NAME="assignment3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="assignment3" RUN_TARGET_NAME="assignment3">
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.midTerm" />
+      <item index="2" class="java.lang.String" itemvalue="Application.assignment3" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="991b329d-965f-4cf3-8960-68a9fbc169d7" name="Default" comment="" />
+      <created>1488148563898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488148563898</updated>
+      <workItem from="1488148568200" duration="13024000" />
+      <workItem from="1488161764498" duration="17772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30796000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="774" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3240469" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35190615" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HarrisConer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HarrisConer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="89" lean-forward="false" selection-start-line="20" selection-start-column="89" selection-end-line="20" selection-end-column="89" />
+          <folding>
+            <element signature="e#101#133#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GaussianKernel.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="78" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="78" />
+          <folding>
+            <element signature="e#71#906#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GaussianKernel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="67" lean-forward="false" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="67" />
+          <folding>
+            <element signature="e#107#126#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Description.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Descriptor.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Descriptor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="e#99#131#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/harris.cpp" />
+    <entry file="file://$PROJECT_DIR$/harris.h" />
+    <entry file="file://$PROJECT_DIR$/selfHarris.cpp" />
+    <entry file="file://$PROJECT_DIR$/selfHarris.h" />
+    <entry file="file://$PROJECT_DIR$/GaussianKernel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="e#107#126#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Description.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Description.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="31" column="34" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="31" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Descriptor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <marker date="1488177393000" expanded="true" signature="328:584" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Matcher.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="76" column="45" lean-forward="false" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
+          <folding>
+            <element signature="e#40#60#0" expanded="true" />
+            <element signature="e#2515#2571#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GaussianKernel.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="79" lean-forward="false" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+          <folding>
+            <element signature="e#71#906#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShowPic.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#93#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShowPic.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Descriptor.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1053">
+          <caret line="8" column="56" lean-forward="false" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HarrisConer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="89" lean-forward="false" selection-start-line="20" selection-start-column="89" selection-end-line="20" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HarrisConer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="100" column="5" lean-forward="true" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Matcher.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="e#93#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="53" column="34" lean-forward="false" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+I implemented five classes to make this project. Two of them are kind of tools, which are a Gaussian kernel and showPic.
+
+For the other three, the first one is HarrisConer which is detector. The function of it is to detect interes point in a picture.
+
+The second is Descriptor. I use two method in this class. The first method is used to get orientations for one point. The second is to collect all orientation form one picture.
+
+The third one is Matcher. In the class, there are three method which are Ssd(), match() and run(). Ssd() is to compute SSD for two points. Match() is to compute test ratio and store high test ratio. And run() is to match two pictures by comparing their test ratio.

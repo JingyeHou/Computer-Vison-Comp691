@@ -1,0 +1,145 @@
+#include <opencv2/core/core.hpp>
+#include <opencv2/highgui/highgui.hpp>
+#include <iostream>
+#include <opencv2/opencv.hpp>
+#include "opencv2/xfeatures2d/nonfree.hpp"
+#include "Gaussian.h"
+
+
+using namespace cv;
+using namespace std;
+
+void guassian(int sizex, int sizey, double sigma, cv::Mat &kernel);
+
+int main() {
+   
+    Mat gray;
+
+
+    gray = imread("/Users/houjingye/Desktop/Yosemite1.jpg", CV_LOAD_IMAGE_COLOR);
+
+
+    if (!gray.data) {
+        cout << "Could not open or find the image" << endl;
+        return -1;
+    }
+    
+
+    Mat src;
+    if (gray.channels() == 3)
+    {
+        cvtColor(gray, src, CV_BGR2GRAY);
+    }
+    else
+    {
+        src = gray.clone();
+    }
+    src.convertTo(src, CV_64F);
+
+    Mat Dx, Dy;
+
+    float kernel_data0[9]={ -1, 0, 1,
+
+                            -1, 0, 1,
+
+                            -1, 0, 1};
+
+
+
+    Mat kernel3 = Mat(3,3, CV_32F, kernel_data0);
+    filter2D(src, Dx, src.depth(), kernel3);
+
+    float kernel_data1[9]={ -1,   -1,    -1,
+
+                            0,    0,   0,
+
+                            1,    1,     1};
+    Mat kernel4 = Mat(3,3,CV_32F,kernel_data1);
+    filter2D(src, Dy, src.depth(), kernel4);
+
+
+
+        Mat DxDy,Dx2, Dy2;
+    DxDy = Dx.mul(Dy);
+    Dy2 = Dy.mul(Dy);
+    Dx2 = Dx.mul(Dx);
+
+    Mat Kernel(3, 3, CV_64F);
+    guassian(3, 3, 1, Kernel);
+
+    filter2D(DxDy, DxDy, DxDy.depth(), Kernel);
+
+    filter2D(Dx2, Dx2, Dx2.depth(), Kernel);
+
+    filter2D(Dy2, Dy2, Dy2.depth(), Kernel);
+
+//    Mat mag, angle;
+//    cartToPolar(Dx, Dy, mag, angle, 1);
+
+
+    Mat cornerStrength(src.size(), src.type());
+    for (int i = 0; i < src.rows; i++)
+    {
+        for (int j = 0; j < src.cols; j++)
+        {
+            double det_m = Dx2.at<double>(i,j) * Dy2.at<double>(i,j) - DxDy.at<double>(i,j) * DxDy.at<double>(i,j);
+            double trace_m = Dx2.at<double>(i,j) + Dy2.at<double>(i,j);
+            cornerStrength.at<double>(i,j) = det_m/trace_m;
+        }
+    }
+
+
+    double maxStrength;
+    minMaxLoc(cornerStrength, NULL, &maxStrength, NULL, NULL);
+    Mat dilated;
+    Mat localMax;
+    dilate(cornerStrength, dilated, Mat());
+    compare(cornerStrength, dilated, localMax, CMP_EQ);
+
+
+    Mat cornerMap;
+    double qualityLevel = 0.1;
+    double thresh = qualityLevel * maxStrength;
+    cornerMap = cornerStrength > thresh;
+    bitwise_and(cornerMap, localMax, cornerMap);
+
+    Mat imgDst = cornerMap.clone();
+
+    Mat_<uchar>::const_iterator it = imgDst.begin<uchar>();
+    Mat_<uchar>::const_iterator itd = imgDst.end<uchar>();
+    for (int i = 0; it != itd; it++, i++)
+    {
+        if (*it)
+            circle(gray, Point(i%gray.cols, i / gray.cols), 3, Scalar(0, 255, 0), 1);
+    }
+
+
+
+}
+
+void guassian(int sizex, int sizey, double sigma, cv::Mat &kernel) {
+    double pi = M_PI;
+    double mins = 0;
+    if((sizex % 2 == 0)||(sizey % 2 == 0)){
+        cout << "you set wrong number" << endl;
+        return;
+    }
+    double mid1 = floor((sizex - 1) / 2);
+    double mid2 = floor((sizey - 1) / 2);
+    for(int i = 1; i <= sizex; i++){
+        for(int j = 1 ; j <= sizey; j++) {
+            double ttt = ((i - mid1 - 1) * (i - mid1 - 1) + (j - mid2 - 1) * (j - mid2 - 1)) / (2 * sigma * sigma);
+            double t = exp(- ttt);
+            double a = t / (2 * pi * sigma * sigma);
+            mins += a;
+            kernel.at<double>(i - 1, j - 1) = a;
+        }
+    }
+
+    for(int i = 0; i < sizex; i++){
+        for (int j = 0; j < sizey; j++) {
+            kernel.at<double>(i, j) /= mins;
+        }
+    }
+    cout << kernel << endl;
+}
